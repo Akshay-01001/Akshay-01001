@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Akshay Patel
 
 - 👀 I am a Full Stack Developer  
-- 🌱 I’m currently learning **Next.js** and **DSA**  
-- 📫 How to reach me: **akshaypatel5048@gmail.com**  
+- 🌱 I’m currently learning **Next.js** and **DSA**
+- - 🧑‍💻 Currently working with **React, Express, and MongoDB** to build modern, scalable web applications.
+- 📫 How to reach me: **akshaypatel5048@gmail.com**
 
 ---
 
