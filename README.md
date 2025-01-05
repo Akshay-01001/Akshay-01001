@@ -28,9 +28,6 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-01001&layout=compact&theme=radical)](https://github.com/Akshay-01001/github-readme-stats)
 
 <!---
 Akshay-01001/Akshay-01001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
