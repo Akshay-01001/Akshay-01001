@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Akshay-01001
+# 👋 Hi, I’m Akshay Patel
 
 - 👀 I am a Full Stack Developer  
 - 🌱 I’m currently learning **Next.js** and **DSA**  
